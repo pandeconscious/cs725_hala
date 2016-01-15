@@ -26,8 +26,6 @@ Dependencies:
 https://github.com/scikit-learn/scikit-learn  For KNN*
 http://scikit-learn.org/stable/ for the others.
 
-Please copy test_avg.csv obtained from http://www.cse.iitb.ac.in/~amanmadaan/docs/test_avg.csv
-into the naiveBayes folder.
 -------------------------------------------------------------------------------
 Documentation
 
@@ -35,9 +33,3 @@ Kindly refer to our report file, cs725_hala_report, which documents our approach
 and results. A number of plots that were plotted for analysis are also included in
 the aforementioned document.
 -------------------------------------------------------------------------------
-Additional Notes
-
-There might be issues in file paths and the likes, in which case I request you 
-to contact me directly at <amanmadaan@cse.iitb.ac.in> or 7506112148. 
-
-If required, we will be happy to give a live demo at any time suitable to you.
